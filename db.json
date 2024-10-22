@@ -1,0 +1,64 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Laptop Gamer",
+      "descripcion": "Laptop de alto rendimiento con gráficos dedicados para gaming.",
+      "precio": 1000000
+    },
+    {
+      "id": 2,
+      "nombre": "Smartphone 5G",
+      "descripcion": "Teléfono inteligente con pantalla AMOLED y conectividad 5G.",
+      "precio": 800.000
+    },
+    {
+      "id": 3,
+      "nombre": "Auriculares Inalámbricos",
+      "descripcion": "Auriculares Bluetooth con cancelación de ruido y 30 horas de batería.",
+      "precio": 15.000
+    },
+    {
+      "id": 4,
+      "nombre": "Reloj Inteligente",
+      "descripcion": "Reloj que monitoriza la salud y ofrece notificaciones del teléfono.",
+      "precio": 200.000
+    },
+    {
+      "id": 5,
+      "nombre": "Monitor 4K",
+      "descripcion": "Pantalla 4K de 27 pulgadas, ideal para juegos y diseño gráfico.",
+      "precio": 500.000
+    },
+    {
+      "id": 6,
+      "nombre": "Teclado Mecánico",
+      "descripcion": "Teclado mecánico retroiluminado, perfecto para gamers y programadores.",
+      "precio": 50.000
+    },
+    {
+      "id": 7,
+      "nombre": "Ratón Ergonómico",
+      "descripcion": "Ratón diseñado para mayor comodidad durante largas sesiones de trabajo.",
+      "precio": 50.000
+    },
+    {
+      "id": 8,
+      "nombre": "Cámara Web Full HD",
+      "descripcion": "Cámara web con resolución Full HD, ideal para videollamadas y streaming.",
+      "precio": 250.000
+    },
+    {
+      "id": 9,
+      "nombre": "Tablet 10\"",
+      "descripcion": "Tablet de 10 pulgadas con sistema operativo Android y 64GB de almacenamiento.",
+      "precio": 300.000
+    },
+    {
+      "id": 10,
+      "nombre": "Disco Duro Externo",
+      "descripcion": "Disco duro externo de 2TB, ideal para almacenar y respaldar datos.",
+      "precio": 100.000
+    }
+  ]
+}
